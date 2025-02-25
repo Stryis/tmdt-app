@@ -23,7 +23,7 @@ class User extends Authenticatable
         'password',
     ];
 
-    $user = new user();
+
     /**
      * The attributes that should be hidden for serialization.
      *
